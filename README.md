@@ -1,2 +1,2 @@
 # Minidec
-Minidec = Minimalistic IDE for C
+Minimalistic IDE for C (Minidec)
